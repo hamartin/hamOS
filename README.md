@@ -51,11 +51,11 @@ creating my code. A reference to it will be found here.
 ## Wikis
   - [X86 instruction
     listings](https://en.wikipedia.org/wiki/X86_instruction_listings)
-  - [FAT OSDEV Wiki](https://wiki.osdev.org/FAT#Boot_Record)
+  - [OSDEV FAT Wiki](https://wiki.osdev.org/FAT#Boot_Record)
 
 
 ## Github projects
-  - [nanobyte-dev nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os.git)
+  - [nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os.git)
 
 
 ## PDF
