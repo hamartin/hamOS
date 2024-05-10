@@ -36,6 +36,16 @@ projects.
     - A tool to help maintain the project. I don't know the full extent of what
       make can do, but for our purposes, it is simply a way for us to build the
       binaries and images, and help with repetetive tasks.
+
+## Makefile
+I made a relatively simple Makefile which supports the following at the current
+moment.
+
+  - make
+  - make clean
+  - make run
+
+Running the make command will build the image, make run will do the same as make, but it will also automatically start the OS using Qemu. The make clean command will simply remove the build directory and all its content.
   
 
 # Resources
