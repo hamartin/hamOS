@@ -44,19 +44,22 @@ creating my code. A reference to it will be found here.
 
 
 ## Youtube videos
-OliveStem [1](https://www.youtube.com/@olivestemlearning)
-nanobyte [2](https://www.youtube.com/@nanobyte-dev)
+  - OliveStem [1](https://www.youtube.com/@olivestemlearning)
+  - nanobyte [2](https://www.youtube.com/@nanobyte-dev)
 
 
 ## Wikis
-X86 instruction listings [1](https://en.wikipedia.org/wiki/X86_instruction_listings)
-FAT OSDEV Wiki [2](https://wiki.osdev.org/FAT#Boot_Record)
+  - X86 instruction listings
+    [1](https://en.wikipedia.org/wiki/X86_instruction_listings)
+  - FAT OSDEV Wiki [2](https://wiki.osdev.org/FAT#Boot_Record)
 
 
 ## Github projects
-nanobyte-dev nanobyte_os [1](https://github.com/nanobyte-dev/nanobyte_os.git)
+  - nanobyte-dev nanobyte_os
+    [1](https://github.com/nanobyte-dev/nanobyte_os.git)
 
 
 ## PDF
-Writing a Simple Operating System from Scratch [1](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-The PDF above is an excellent resource. Read it and understand it.
+  - Writing a Simple Operating System from Scratch
+    [1](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+    The PDF above is an excellent resource. Read it and understand it.
