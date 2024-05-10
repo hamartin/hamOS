@@ -38,5 +38,9 @@ os_running_msg: db "hamOS running.", ENDL, 0
 
 %include "print.asm"
 
-times 510-($-$$) db 0
-dw 0xaa55
+times 510-($-$$) db 0							; We make sure to that the every byte in the sector
+									;	that is not used is a zero up until the
+									;	last 2 bytes.
+dw 0xaa55								; The last 2 bytes in the sector contains the magic
+									;	"header" which tells the BIOS that this is
+									;	a bootloader.
