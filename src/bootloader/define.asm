@@ -1,0 +1,1 @@
+%define ENDL 0x0d, 0x0a
